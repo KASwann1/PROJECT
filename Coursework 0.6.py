@@ -1,3 +1,8 @@
+###Project simulating packets passing through a router with random sizes in a queue algorithm
+##
+#
+
+
 import random
 
 class Packet:
